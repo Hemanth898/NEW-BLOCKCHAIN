@@ -1,0 +1,5 @@
+mkdir -p src/bitcoin-core
+mkdir -p src/bitcoinjs
+mkdir -p src/btcd
+mkdir -p src/bcoin
+mkdir -p src/blockcypher-api
