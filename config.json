@@ -1,0 +1,12 @@
+{
+  "network": "mainnet",
+  "bitcoinCore": {
+    "rpcUser": "your_rpc_user",
+    "rpcPassword": "your_rpc_password",
+    "host": "localhost",
+    "port": 8332
+  },
+  "blockCypher": {
+    "apiKey": "your_blockcypher_api_key"
+  }
+}
